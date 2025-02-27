@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="15.762" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\yuval\Desktop\mend-io\mend-io-gcloud-cli-testing\target\test-classes;C:\Users\yuval\Desktop\mend-io\mend-io-gcloud-cli-testing\target\classes;C:\Users\yuval\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\yuval\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\yuval\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\yuval\.m2\repository\com\microsoft\playwright\playwright\1.37.0\playwright-1.37.0.jar;C:\Users\yuval\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\yuval\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\yuval\.m2\repository\com\microsoft\playwright\driver\1.37.0\driver-1.37.0.jar;C:\Users\yuval\.m2\repository\com\microsoft\playwright\driver-bundle\1.37.0\driver-bundle-1.37.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Jerusalem"/>
+    <property name="user.country.format" value="IL"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-23\bin"/>
+    <property name="sun.java.command" value="C:\Users\yuval\AppData\Local\Temp\surefire4251804942432309662\surefirebooter16488453168203333751.jar C:\Users\yuval\AppData\Local\Temp\surefire4251804942432309662 2025-02-27T19-16-39_339-jvmRun1 surefire9834468963367910947tmp surefire_0278843622062256970tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\yuval\Desktop\mend-io\mend-io-gcloud-cli-testing\target\test-classes;C:\Users\yuval\Desktop\mend-io\mend-io-gcloud-cli-testing\target\classes;C:\Users\yuval\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\yuval\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\yuval\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\yuval\.m2\repository\com\microsoft\playwright\playwright\1.37.0\playwright-1.37.0.jar;C:\Users\yuval\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\yuval\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\yuval\.m2\repository\com\microsoft\playwright\driver\1.37.0\driver-1.37.0.jar;C:\Users\yuval\.m2\repository\com\microsoft\playwright\driver-bundle\1.37.0\driver-bundle-1.37.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\yuval"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-23"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\yuval\Desktop\mend-io\mend-io-gcloud-cli-testing"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\yuval\AppData\Local\Temp\surefire4251804942432309662\surefirebooter16488453168203333751.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="23.0.2+7-58"/>
+    <property name="user.name" value="yuval"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\yuval\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\yuval\AppData\Local\Temp\"/>
+    <property name="java.version" value="23.0.2"/>
+    <property name="user.dir" value="C:\Users\yuval\Desktop\mend-io\mend-io-gcloud-cli-testing"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\Git\cmd;C:\Program Files\MATLAB\R2022a\bin;C:\Program Files\Erlang OTP\bin;;C:\Users\yuval\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Program Files\nodejs\;C:\Users\yuval\AppData\Local\Microsoft\WindowsApps;C:\Users\yuval\AppData\Local\GitHubDesktop\bin;C:\Users\yuval\Desktop\Technion\Semester_6\Lab\Quartos\modelsim_ase\win32aloem;C:\Users\yuval\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\yuval\AppData\Roaming\npm;C:\Users\yuval\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="23.0.2+7-58"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="67.0"/>
+  </properties>
+  <testcase name="testHashCommand" classname="com.mendio.gcloud.HashTest" time="2.103">
+    <system-out><![CDATA[gcloud hash output:
+---
+crc32c_hash: KE7nfw==
+digest_format: base64
+md5_hash: pYkKzjCj6E2RGBlsFhruwg==
+url: gs://simple_bucket_for_testing/testfile.txt
+
+]]></system-out>
+  </testcase>
+  <testcase name="testLsCommand" classname="com.mendio.gcloud.LsTest" time="2.016">
+    <system-out><![CDATA[gcloud ls output:
+gs://simple_bucket_for_testing/testfile.txt
+
+]]></system-out>
+  </testcase>
+  <testcase name="testCatCommand" classname="com.mendio.gcloud.CatTest" time="2.363">
+    <system-out><![CDATA[gcloud cat output:
+this is a test file
+
+]]></system-out>
+  </testcase>
+  <testcase name="testSignUrl" classname="com.mendio.gcloud.SignUrlTest" time="8.905">
+    <system-out><![CDATA[gcloud output line: ---
+gcloud output line: expiration: '2025-02-27 18:16:48'
+gcloud output line: http_verb: GET
+gcloud output line: resource: gs://simple_bucket_for_testing/testfile.txt
+gcloud output line: signed_url: https://storage.googleapis.com/simple_bucket_for_testing/testfile.txt?x-goog-signature=54c9a6f6e6224521dcf8d5415bcf2477bc91a8ecf4e9b4f6c0bad86490f83d5694bf787b0a7779fd5ce4b29d095abdad4b44c41ee12692714f466620b1444cfdb1013bfc65048fde9a94bab477888dfea0459ac76fa5aa5771d5aa627a433b72496e0d9ba5ab808d012d1895d4dc7f8d70ca4dddf929f356fbc40a0c9da1ca18cf193984516f654ebbf0665ab9f17f621ab601999889597d9ca52b7682a614687bf443d37732080917fd384178e7e1da3aa54e7a1fffea51c949505a68c2a45031cacba263560cb51710a7b833315b4f7d73c7342cd64fbf86351c0dd1502c321150a988510ddd6721bda82b5cb3185093cb9b07715d1b9d202f79b5952001b7&x-goog-algorithm=GOOG4-RSA-SHA256&x-goog-credential=mendiotesting%40mend-io-gcloud-cli-testing.iam.gserviceaccount.com%2F20250227%2Fus%2Fstorage%2Fgoog4_request&x-goog-date=20250227T171648Z&x-goog-expires=3600&x-goog-signedheaders=host
+gcloud command exit code: 0
+Generated Signed URL: https://storage.googleapis.com/simple_bucket_for_testing/testfile.txt?x-goog-signature=54c9a6f6e6224521dcf8d5415bcf2477bc91a8ecf4e9b4f6c0bad86490f83d5694bf787b0a7779fd5ce4b29d095abdad4b44c41ee12692714f466620b1444cfdb1013bfc65048fde9a94bab477888dfea0459ac76fa5aa5771d5aa627a433b72496e0d9ba5ab808d012d1895d4dc7f8d70ca4dddf929f356fbc40a0c9da1ca18cf193984516f654ebbf0665ab9f17f621ab601999889597d9ca52b7682a614687bf443d37732080917fd384178e7e1da3aa54e7a1fffea51c949505a68c2a45031cacba263560cb51710a7b833315b4f7d73c7342cd64fbf86351c0dd1502c321150a988510ddd6721bda82b5cb3185093cb9b07715d1b9d202f79b5952001b7&x-goog-algorithm=GOOG4-RSA-SHA256&x-goog-credential=mendiotesting%40mend-io-gcloud-cli-testing.iam.gserviceaccount.com%2F20250227%2Fus%2Fstorage%2Fgoog4_request&x-goog-date=20250227T171648Z&x-goog-expires=3600&x-goog-signedheaders=host
+Launching browser...
+Browser launched.
+Navigating to: https://storage.googleapis.com/simple_bucket_for_testing/testfile.txt?x-goog-signature=54c9a6f6e6224521dcf8d5415bcf2477bc91a8ecf4e9b4f6c0bad86490f83d5694bf787b0a7779fd5ce4b29d095abdad4b44c41ee12692714f466620b1444cfdb1013bfc65048fde9a94bab477888dfea0459ac76fa5aa5771d5aa627a433b72496e0d9ba5ab808d012d1895d4dc7f8d70ca4dddf929f356fbc40a0c9da1ca18cf193984516f654ebbf0665ab9f17f621ab601999889597d9ca52b7682a614687bf443d37732080917fd384178e7e1da3aa54e7a1fffea51c949505a68c2a45031cacba263560cb51710a7b833315b4f7d73c7342cd64fbf86351c0dd1502c321150a988510ddd6721bda82b5cb3185093cb9b07715d1b9d202f79b5952001b7&x-goog-algorithm=GOOG4-RSA-SHA256&x-goog-credential=mendiotesting%40mend-io-gcloud-cli-testing.iam.gserviceaccount.com%2F20250227%2Fus%2Fstorage%2Fgoog4_request&x-goog-date=20250227T171648Z&x-goog-expires=3600&x-goog-signedheaders=host
+Navigation complete.
+Page content: this is a test file
+]]></system-out>
+    <system-err><![CDATA[gcloud error output: 
+]]></system-err>
+  </testcase>
+</testsuite>

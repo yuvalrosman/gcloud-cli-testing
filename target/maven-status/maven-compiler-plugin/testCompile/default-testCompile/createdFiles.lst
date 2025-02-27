@@ -1,0 +1,5 @@
+com\mendio\gcloud\LsTest.class
+com\mendio\gcloud\HashTest.class
+com\mendio\AppTest.class
+com\mendio\gcloud\CatTest.class
+com\mendio\gcloud\SignUrlTest.class
